@@ -1,2 +1,1 @@
-# Replit-Codepen
-This is my FizzBuzz code using replit
+This is my python code in replit
